@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Cau2 {
     public static void main(String[] args) {
+        //Nhap vao n va in ra theo dieu kien
         Scanner sc = new Scanner(System.in);
         System.out.println("Moi nhap n: ");
         int n = sc.nextInt();

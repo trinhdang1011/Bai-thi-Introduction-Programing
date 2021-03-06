@@ -2,7 +2,8 @@ import java.util.Scanner;
 
 public class Cau1 {
     public static void main(String[] args) {
-        //Tinh va in ra gia tri cua mot bua an
+        //Tinh va in ra gia tien cua mot bua an
+        System.out.println("Chuong trinh tinh gia tien cua mot bua an ");
         Scanner sc = new Scanner(System.in);
         System.out.println("Moi nhap gia : ");
         double meal_cost = sc.nextDouble();
